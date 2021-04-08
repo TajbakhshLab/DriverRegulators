@@ -3,7 +3,7 @@ Identify transcription factors underlying cell state transitions in scRNAseq dat
 
 This repository contains the source code and information regarding the DriverRegulators pipeline (Grimaldi et al. 2021).
 
-# Workflow
+## Workflow
 
 This python code combines the output of 2 python libraries, pyscenic and scvelo, into a network of transcription factors and associated target genes.
 The general workflow is:
@@ -14,5 +14,5 @@ The general workflow is:
 
 3-Using the DriverRegulators code to generate a table of nodes and edges
 
-4-Using a program like Gephi to visualize the network
+4-Using a program such as Gephi to visualize the network
 
