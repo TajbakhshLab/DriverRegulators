@@ -10,9 +10,9 @@ The general workflow is:
 
 1-Running scvelo and saving the top driver genes by cluster as a table
 
-2-Running pyscenic on the same dataset and generating the "f_loom_final.loom" file
+2-Extracting the AUC matrix and the regulons from the f_final.loom file of pyscenic output
 
-3-Using the DriverRegulators code to generate a table of nodes and edges
+3-Generate tables of Nodes and Edges based on interactions found in a given cluster
 
 4-Using a program such as Gephi to visualize the network
 
