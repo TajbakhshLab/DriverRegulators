@@ -5,7 +5,7 @@ This repository contains the source code and information regarding the DriverReg
 
 ## Workflow
 
-This python code combines the output of 2 python libraries, pyscenic and scvelo, into a network of transcription factors and associated target genes.
+This juyter notebook code combines the output of 2 python libraries, pyscenic and scvelo, into a network of transcription factors and associated target genes.
 The general workflow is:
 
 1-Running scvelo and saving the top driver genes by cluster as a table
